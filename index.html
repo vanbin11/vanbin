@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Văn Bin — Graphic & Editorial Designer</title>
+    <link rel="stylesheet" href="psn.css">
+</head>
+<body>
+
+    <!-- STICKY NAV -->
+    <div class="nav-sticky">
+        <div class="nav-left">
+            <a href="#" id="nav-home-link" onclick="showHome(); return false;">Văn Bin</a>
+            <a href="#" id="nav-back-link" onclick="showHome(); return false;" style="display:none;">← Back</a>
+        </div>
+        <div class="nav-right">
+            <a href="#" onclick="return false;">Info</a>, 
+            <a href="mailto:vanbinds@gmail.com">Mail</a>, 
+            <a href="#" onclick="return false;">IG</a>
+        </div>
+    </div>
+
+    <!-- ══ HOME ══ -->
+    <div id="page-home">
+        <!-- scrollable subtitle -->
+        <div class="nav-scroll">
+            <span>Graphic &amp; Editorial Designer</span>
+        </div>
+
+        <div class="grid-wrapper">
+            <div class="grid-flat" id="grid"></div>
+        </div>
+
+        <footer>
+            <div class="footer-contact">
+                <div>(84+) 327 924 825</div>
+                <div><a href="mailto:vanbinds@gmail.com">vanbinds@gmail.com</a></div>
+                <div><a href="#" onclick="return false;">Instagram</a></div>
+                <div><a href="#" onclick="return false;">Facebook</a></div>
+            </div>
+            <div style="text-align:center;">
+                <button class="back-top" onclick="window.scrollTo({top:0,behavior:'smooth'})">Top ↑</button>
+            </div>
+            <div class="footer-right">
+                <div>© nvanbin_</div>
+                <div id="clock">00:00:00</div>
+            </div>
+        </footer>
+    </div>
+
+    <!-- ══ PROJECT ══ -->
+    <div id="page-project">
+    <div class="project-container"> 
+
+        <div class="project-header">
+            <div>
+                <div class="project-title" id="proj-title"></div>
+                <div class="project-date" id="proj-date"></div>
+            </div>
+            <div class="project-desc" id="proj-desc"></div>
+        </div>
+        
+        <div class="project-images" id="proj-images"></div>
+
+    </div> </div>
+
+    <!-- Link file JS -->
+    <script src="psn.js"></script>
+</body>
+</html>

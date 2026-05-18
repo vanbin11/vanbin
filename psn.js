@@ -17,13 +17,13 @@ const projects = [
   {
     title: 'Riobook',
     date: 'Jan 31 2025',
-    d1: 'A comprehensive editorial design project exploring the intersections of contemporary graphic language and traditional publishing formats.',
+    d1: 'Ảo ảnh trong xã hội dư thừa kết nối—Riobook, khổ 17x24,8mm',
     images: ['images/Riobook/rio-01.jpg', 'images/Riobook/rio-02.jpg', 'images/Riobook/rio-03.jpg']
     },
   {
     title: 'Kiến Trúc Đông Dương',
-    date: 'June 2024',
-    d1: 'An experimental typographic study examining the relationship between letterform and white space in contemporary print media.',
+    date: 'June 12 2024',
+    d1: 'In 50 cuốn, khổ 17x24,8mm',
     images: ['images/ktdd/KTDD-01.jpg', 'images/ktdd/KTDD-02.jpg', 'images/ktdd/KTDD-03.jpg',
               'images/ktdd/KTDD-04.jpg', 'images/ktdd/KTDD-05.jpg', 'images/ktdd/KTDD-06.jpg',
               'images/ktdd/KTDD-07.jpg', 'images/ktdd/KTDD-08.jpg', 'images/ktdd/KTDD-09.jpg',
@@ -32,32 +32,32 @@ const projects = [
   },
   { title: 'Tập Thơ(Nguyễn Bính)',
     date: 'Aug 3 2022', 
-    d1: '...',
+    d1: 'Nguyễn Bính (tập thơ). 200x260 mm, 198 trang',
     images: ['images/tt/tt-01.jpg', 'images/tt/tt-02.jpg']
     },
   { title: "Quand l'art s'industrialise",
-    date: 'September 2023', 
-    d1: '...',
+    date: 'September 20 2047', 
+    d1: "It's not the first art movement in the world, it's just the first movement that comes to mind when it comes to graphic design",
     images: ['images/franc/franc-01.jpg', 'images/franc/france-02.jpg', 'images/franc/france-03.jpg',
              'images/franc/france-04.jpg', 'images/franc/france-05.jpg', 'images/franc/france-06.jpg',
              'images/franc/france-08.jpg', 'images/franc/france-09.jpg',
              'images/franc/france-10.jpg']
             },
-  { title: 'Trảng Bàng Gourmet', 
-    date: 'Oct 2025', 
-    d1: '...', images: ['images/TBG/TBG-01.jpg', 'images/TBG/TBG-02.jpg']
+  { title: 'TBG Logo/Label', 
+    date: 'Oct 2024', 
+    d1: '', images: ['images/TBG/TBG-01.jpg', 'images/TBG/TBG-02.jpg']
     },
   { title: 'SAV Complex', 
-    date: 'Jun 2025', 
+    date: 'Jun 11 2025', 
     d1: '...', 
     images: ['images/SAV/sav-02.jpg', 'images/SAV/sav-01.jpg'] },
   { title: 'Kanobeat', 
-    date: 'Apr 2025', 
+    date: '2025', 
     d1: '...', 
     images: ['images/kanobeat/kanobeat-01.jpg'] },
   { title: 'Nafertari Bakery', 
     date: 'May 2026', 
-    d1: '...', 
+    d1: 'Một cửa hàng nhỏ tại địa phương', 
     images: ['images/nafertari/nafertari-01.jpg', 'images/nafertari/nafertari-02.jpg', 'images/nafertari/nafertari-03.jpg'] }
 ];
 

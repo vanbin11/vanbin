@@ -22,7 +22,7 @@ const projects = [
     },
   {
     title: 'Kiến Trúc Đông Dương',
-    date: 'June 12 2024',
+    date: 'June 2024',
     d1: 'An experimental typographic study examining the relationship between letterform and white space in contemporary print media.',
     images: ['images/ktdd/KTDD-01.jpg', 'images/ktdd/KTDD-02.jpg', 'images/ktdd/KTDD-03.jpg',
               'images/ktdd/KTDD-04.jpg', 'images/ktdd/KTDD-05.jpg', 'images/ktdd/KTDD-06.jpg',
@@ -36,7 +36,7 @@ const projects = [
     images: ['images/tt/tt-01.jpg', 'images/tt/tt-02.jpg']
     },
   { title: "Quand l'art s'industrialise",
-    date: 'September 20 2047', 
+    date: 'September 2023', 
     d1: '...',
     images: ['images/franc/franc-01.jpg', 'images/franc/france-02.jpg', 'images/franc/france-03.jpg',
              'images/franc/france-04.jpg', 'images/franc/france-05.jpg', 'images/franc/france-06.jpg',
@@ -44,19 +44,19 @@ const projects = [
              'images/franc/france-10.jpg']
             },
   { title: 'Trảng Bàng Gourmet', 
-    date: 'October 8 2047', 
+    date: 'Oct 2025', 
     d1: '...', images: ['images/TBG/TBG-01.jpg', 'images/TBG/TBG-02.jpg']
     },
   { title: 'SAV Complex', 
-    date: 'Jun 11 2025', 
+    date: 'Jun 2025', 
     d1: '...', 
     images: ['images/SAV/sav-02.jpg', 'images/SAV/sav-01.jpg'] },
   { title: 'Kanobeat', 
-    date: '2025', 
+    date: 'Apr 2025', 
     d1: '...', 
     images: ['images/kanobeat/kanobeat-01.jpg'] },
   { title: 'Nafertari Bakery', 
-    date: 'January 10 2048', 
+    date: 'May 2026', 
     d1: '...', 
     images: ['images/nafertari/nafertari-01.jpg', 'images/nafertari/nafertari-02.jpg', 'images/nafertari/nafertari-03.jpg'] }
 ];

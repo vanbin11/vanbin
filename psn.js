@@ -19,20 +19,45 @@ const projects = [
     date: 'Jan 31 2025',
     d1: 'A comprehensive editorial design project exploring the intersections of contemporary graphic language and traditional publishing formats.',
     images: ['images/Riobook/rio-01.jpg', 'images/Riobook/rio-02.jpg', 'images/Riobook/rio-03.jpg']
-  },
+    },
   {
     title: 'Kiến Trúc Đông Dương',
     date: 'June 12 2024',
     d1: 'An experimental typographic study examining the relationship between letterform and white space in contemporary print media.',
-    d2: 'Proin sit amet purus metus. In nec efficitur justo, sed maximus est. Ut ornare arcu eros, at condimentum enim imperdiet vitae.',
-    images: ['images/dongduong-01.png', 'images/dongduong-02.png']
+    images: ['images/ktdd/KTDD-01.jpg', 'images/ktdd/KTDD-02.jpg', 'images/ktdd/KTDD-03.jpg',
+              'images/ktdd/KTDD-04.jpg', 'images/ktdd/KTDD-05.jpg', 'images/ktdd/KTDD-06.jpg',
+              'images/ktdd/KTDD-07.jpg', 'images/ktdd/KTDD-08.jpg', 'images/ktdd/KTDD-09.jpg',
+              'images/ktdd/KTDD-10.jpg', 'images/ktdd/KTDD-11.jpg'
+    ]
   },
-  { title: 'Tập Thơ(Nguyễn Bính)', date: 'Aug 3 2022', d1: '...', images: [] },
-  { title: "Quand l'art s'industrialise", date: 'September 20 2047', d1: '...', images: [] },
-  { title: 'Lorem Ipsum', date: 'October 8 2047', d1: '...', images: [] },
-  { title: 'SAV Complex', date: 'Jun 11 2025', d1: '...', images: [] },
-  { title: 'Lorem Ipsum', date: 'December 1 2047', d1: '...', images: [] },
-  { title: 'Lorem Ipsum', date: 'January 10 2048', d1: '...', images: [] }
+  { title: 'Tập Thơ(Nguyễn Bính)',
+    date: 'Aug 3 2022', 
+    d1: '...',
+    images: ['images/tt/tt-01.jpg', 'images/tt/tt-02.jpg']
+    },
+  { title: "Quand l'art s'industrialise",
+    date: 'September 20 2047', 
+    d1: '...',
+    images: ['images/franc/franc-01.jpg', 'images/franc/franc-01.jpg', 'images/franc/franc-01.jpg',
+             'images/franc/franc-01.jpg', 'images/franc/franc-01.jpg', 'images/franc/franc-01.jpg',
+             'images/franc/franc-01.jpg', 'images/franc/franc-01.jpg', 'images/franc/franc-01.jpg',]
+            },
+  { title: 'Trảng Bàng Gourmet', 
+    date: 'October 8 2047', 
+    d1: '...', images: ['images/TBG/TBG-01.jpg', 'images/TBG/TBG-02.jpg']
+    },
+  { title: 'SAV Complex', 
+    date: 'Jun 11 2025', 
+    d1: '...', 
+    images: ['images/SAV/sav-02.jpg'] },
+  { title: 'Kanobeat', 
+    date: 'December 1 2047', 
+    d1: '...', 
+    images: ['images/kanobeat/kanobeat-01.jpg'] },
+  { title: 'Nafertari Bakery', 
+    date: 'January 10 2048', 
+    d1: '...', 
+    images: ['images/nafertari/nafertari-01.jpg', 'images/nafertari/nafertari-02.jpg', 'images/nafertari/nafertari-03.jpg'] }
 ];
 
 // ==========================================

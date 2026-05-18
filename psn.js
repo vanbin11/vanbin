@@ -41,7 +41,7 @@ const projects = [
     images: ['images/franc/franc-01.jpg', 'images/franc/franc-02.jpg', 'images/franc/franc-03.jpg',
              'images/franc/franc-04.jpg', 'images/franc/franc-05.jpg', 'images/franc/franc-06.jpg',
              'images/franc/franc-07.jpg', 'images/franc/franc-08.jpg', 'images/franc/franc-09.jpg',
-             'images/franc/franc-10.jpg', 'images/franc/franc-11.jpg'']
+             'images/franc/franc-10.jpg', 'images/franc/franc-11.jpg']
             },
   { title: 'Trảng Bàng Gourmet', 
     date: 'October 8 2047', 

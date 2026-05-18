@@ -40,7 +40,7 @@ const projects = [
     d1: '...',
     images: ['images/franc/franc-01.jpg', 'images/franc/france-02.jpg', 'images/franc/france-03.jpg',
              'images/franc/france-04.jpg', 'images/franc/france-05.jpg', 'images/franc/france-06.jpg',
-             'images/franc/france-07.jpg', 'images/franc/france-08.jpg', 'images/franc/france-09.jpg',
+             'images/franc/france-08.jpg', 'images/franc/france-09.jpg',
              'images/franc/france-10.jpg', 'images/franc/france-11.jpg']
             },
   { title: 'Trảng Bàng Gourmet', 
@@ -50,9 +50,9 @@ const projects = [
   { title: 'SAV Complex', 
     date: 'Jun 11 2025', 
     d1: '...', 
-    images: ['images/SAV/sav-02.jpg'] },
+    images: ['images/SAV/sav-02.jpg', 'images/SAV/sav-01.jpg'] },
   { title: 'Kanobeat', 
-    date: 'December 1 2047', 
+    date: '2025', 
     d1: '...', 
     images: ['images/kanobeat/kanobeat-01.jpg'] },
   { title: 'Nafertari Bakery', 
@@ -169,4 +169,3 @@ function tick() {
 }
 tick(); 
 setInterval(tick, 1000);
-

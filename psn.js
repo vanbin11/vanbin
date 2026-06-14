@@ -18,7 +18,9 @@ const projects = [
     title: 'Riobook',
     date: 'Jan 31 2025',
     d1: 'Ảo ảnh trong xã hội dư thừa kết nối—Riobook, khổ 17x24,8mm',
-    images: ['images/Riobook/rio-01.jpg', 'images/Riobook/rio-02.jpg', 'images/Riobook/rio-03.jpg']
+    images: ['images/Riobook/rio-01.jpg', 'images/Riobook/rio-02.jpg', 'images/Riobook/rio-03.jpg', 
+              'images/Riobook/rio-04.jpg', 'images/Riobook/rio-05.jpg',
+    ]
     },
   {
     title: 'Kiến Trúc Đông Dương',
